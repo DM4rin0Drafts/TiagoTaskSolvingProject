@@ -1,0 +1,39 @@
+Epoch 1000: | Loss: 0.10867 | Acc: 96.026 | lr: 0.001 | train: 90%
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.92      0.94      1581
+         1.0       0.90      0.94      0.92      1163
+
+    accuracy                           0.93      2744
+   macro avg       0.93      0.93      0.93      2744
+weighted avg       0.93      0.93      0.93      2744
+weighted avg       0.95      0.95      0.95     17419
+
+Epoch 100: | Loss: 0.14179 | Acc: 94.391 | lr: 0.001 | train: 90%
+              precision    recall  f1-score   support
+
+         0.0       0.97      0.94      0.95     10492
+         1.0       0.92      0.96      0.94      7836
+
+    accuracy                           0.95     18328
+   macro avg       0.94      0.95      0.95     18328
+weighted avg       0.95      0.95      0.95     18328
+
+Epoch 100: | Loss: 0.13822 | Acc: 94.515 | lr: 0.001 | train: 99%
+              precision    recall  f1-score   support
+
+         0.0       0.97      0.94      0.96      9962
+         1.0       0.93      0.96      0.94      7457
+
+    accuracy                           0.95     17419
+   macro avg       0.95      0.95      0.95     17419
+
+
+Epoch 010: | Loss: 0.16363 | Acc: 93.434 | lr: 0.001 | train: 99%
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.93      0.95       265
+         1.0       0.91      0.95      0.93       195
+
+    accuracy                           0.94       460
+   macro avg       0.94      0.94      0.94       460

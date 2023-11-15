@@ -1,0 +1,12 @@
+
+Skeleton order to the op plan
+
+    1- sample grasp dir (decision)
+    2- sample grasp (transition)
+    3- sample base position (decision)
+        3.5- plan free motion (transition)
+    4- move free base (Action) (transition)
+    5- ik (transition)
+    6- move free arm (Action) (transition)
+    7- plan free motion (transition)
+    8- pick (Action) (transition)
